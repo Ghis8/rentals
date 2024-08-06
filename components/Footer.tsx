@@ -19,7 +19,7 @@ function Footer() {
         </div>
 
         <div className=''>
-
+            
         </div>
     </section>  
   )
